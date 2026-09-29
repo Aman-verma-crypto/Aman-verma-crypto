@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**Aman-verma-crypto/Aman-verma-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Aman**, a first-year student 
 
-Here are some ideas to get you started:
+I'm at the beginning of my programming journey and currently exploring
+software development, problem solving, and building things from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning how things work and turning ideas into small projects.
+I'm also interested in participating in hackathons and exploring new
+technologies along the way.
+
+---
+
+## Tools & Technologies
+
+- HTML & CSS
+- JAVA - currently learning
+
+---
+
+## What I'm Currently Working On
+
+- Learning programming fundamentals
+- Improving my problem-solving skills
+- Building small projects
+- Exploring web development
+- Participating in hackathons
+
+---
+
+## A Bit About Me
+
+- First-year student 
+- Gym person 
+- music lover
+- Like to keeping things simple
+
+---
+
+> **Learn → Build → Break → Fix → Repeat 🚀**
